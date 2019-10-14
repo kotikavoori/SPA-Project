@@ -1,0 +1,2 @@
+# SPA-Project
+In this article, we are going to create a web application using ASP.NET Core 2.0 and Angular with the help of Entity Framework Core database first approach. We will be creating a sample Employee Record Management system. To read the inputs from the user, we are using Angular Forms with required field validations on the client side. We are also going to bind a dropdown list in the Angular Form to a table in the database using EF Core. We will also learn how to deploy this application on IIS.
